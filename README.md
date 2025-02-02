@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
     <img src="360a2a7ec4895937be58840b2a11d130.gif" alt="Banner">
   </a>
@@ -24,6 +22,8 @@
 </p>
 
 <!--
+## Hi there 👋
+
 **Aru-gitt/Aru-gitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
