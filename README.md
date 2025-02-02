@@ -22,12 +22,12 @@
 <h3 align="center">Languages 👨‍💻</h3>
 
 <p align="justify">
-    <strong>Mastered: </strong>
+    <strong>\tMastered: </strong>
     <strong><img src="logos/c++.png" alt="c++" width="50" height="50"></strong>
 </p>
 
 <p align="justify">
-    <strong>Decent: </strong>
+    <strong>\tDecent: </strong>
     <strong><img src="logos/c.png" alt="c" width="50" height="50"></strong>
     <strong><img src="logos/c#.png" alt="c#" width="50" height="50"></strong>
     <strong><img src="logos/java.png" alt="java" width="50" height="50"></strong>
@@ -36,7 +36,7 @@
 </p>
 
 <p align="justify">
-    <strong>Learning: </strong>
+    <strong>\tLearning: </strong>
     <strong><img src="logos/css.png" alt="css" width="50" height="50"></strong>
     <strong><img src="logos/html.png" alt="html" width="50" height="50"></strong>
 </p>
