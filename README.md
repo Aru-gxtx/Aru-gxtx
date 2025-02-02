@@ -22,7 +22,7 @@
 <h3 align="center">Languages 👨‍💻</h3>
 
 <p align="justify">
-    <img src="c++.png" alt="c++" width="50" height="50">
+    <img src="logos/c++.png" alt="c++" width="50" height="50">
 </p>
 
 
