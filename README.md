@@ -21,7 +21,7 @@
 
 <h2 align="center">Inquiry</h2>
 
-<p align="center">If you have any questions, or if you just want to hang out and talk, or play a game together, feel free to contact me 😉./p>
+<p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me 😉./p>
 
 <p align="center">
     <strong><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahaashi)</a></strong> |
