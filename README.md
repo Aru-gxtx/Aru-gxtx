@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="360a2a7ec4895937be58840b2a11d130.gif" alt="Banner">
-</p>
+<p align="center"><img src="360a2a7ec4895937be58840b2a11d130.gif" alt="Banner"></p>
 
 <h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aru</a>! 👋</h1>
 
@@ -9,18 +7,18 @@
 
 <img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e" align="right">
 
-<p align="justify">Pen Name: Aru, Ⅾ翼</p>
-<p align="justify">Real Name: Matthew Arni Bendo</p>
-<p align="justify">Loves: Anime, Doujins, Manga, Manhua, Novels, Cute things, FPS, Rhythm, and Open World Games, Logical Puzzles, !brainrot contents</p>
-<p align="justify">Hobbies (Proffessional): Animation (2d and 3d), Illustration, Graphic Design, Artificial Intelligence (learning), Machine Learning (learning), Small Content Creation and Game Development</p>
-<p align="justify">Hobbies (Random): Badminton, Chess, Gomoku, Minesweepeer, Tetoris, Bandori, Project Sekai, Rhythm Hive, Osu</p>
+<p align="justify"><b></b>Pen Name:</b> Aru, Ⅾ翼</p>
+<p align="justify"><b>Real Name:</b> Matthew Arni Bendo</p>
+<p align="justify"><b>Loves:</b> Anime, Doujins, Manga, Manhua, Novels, Cute things, FPS, Rhythm, and Open World Games, Logical Puzzles, !brainrot contents</p>
+<p align="justify"><b>Hobbies (Proffessional):</b> Animation (2d and 3d), Illustration, Graphic Design, Artificial Intelligence (learning), Machine Learning (learning), Small Content Creation and Game Development</p>
+<p align="justify"><b>Hobbies (Random):</b> Badminton, Chess, Gomoku, Minesweepeer, Tetoris, Bandori, Project Sekai, Rhythm Hive, Osu</p>
 
 <p align="justify">My real name is Matthew Arni Bendo. I’m 20 years old, and I am not married. I still study Computer Engineering, and I have free time every day by 8:00 PM at the latest. I don’t smoke. I’m in bed by 10:00 PM, and I make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
 
 <p align="center">
-    <strong><a href="https://discord.gg/arnichan">Discord (Nijika)</a></strong> |
-    <strong><a href="https://x.com/Aru327099275035">Twitter (Aru)</a></strong> |
-    <strong><a href="https://x.com/dwings_arni">Twitter (Ⅾ翼)</a></strong>
+    <b><a href="https://discord.gg/arnichan">Discord (Nijika)</a></b> |
+    <b><a href="https://x.com/Aru327099275035">Twitter (Aru)</a></b> |
+    <b><a href="https://x.com/dwings_arni">Twitter (Ⅾ翼)</a></b>
 </p>
 
 
@@ -29,26 +27,24 @@
 <table align="center">
     <tbody>
         <tr>
-            <th>Mastered</th>
+            <th><b>Mastered</b></th>
+            <td><img src="logos/c++.png" alt="c++" width="50" height="50"></td>
+        </tr>
+        <tr>
+            <th><b>Decent</b></th>
             <td>
-                <strong><img src="logos/c++.png" alt="c++" width="50" height="50"></strong>
+                <img src="logos/c.png" alt="c" width="50" height="50">
+                <img src="logos/c%23.png" alt="c#" width="50" height="50">
+                <img src="logos/java.png" alt="java" width="50" height="50">
+                <img src="logos/python.png" alt="python" width="50" height="50">
+                <img src="logos/sql.png" alt="sql" width="50" height="50">
             </td>
         </tr>
         <tr>
-            <th>Decent</th>
+            <th><b>Learning</b></th>
             <td>
-                <strong><img src="logos/c.png" alt="c" width="50" height="50"></strong>
-                <strong><img src="logos/c%23.png" alt="c#" width="50" height="50"></strong>
-                <strong><img src="logos/java.png" alt="java" width="50" height="50"></strong>
-                <strong><img src="logos/python.png" alt="python" width="50" height="50"></strong>
-                <strong><img src="logos/sql.png" alt="sql" width="50" height="50"></strong>
-            </td>
-        </tr>
-        <tr>
-            <th>Learning</th>
-            <td>
-                <strong><img src="logos/css.png" alt="css" width="50" height="50"></strong>
-                <strong><img src="logos/html.png" alt="html" width="50" height="50"></strong>
+                <img src="logos/css.png" alt="css" width="50" height="50">
+                <img src="logos/html.png" alt="html" width="50" height="50">
             </td>
         </tr>
     </tbody>
@@ -60,9 +56,9 @@
 <p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me.</p>
 
 <p align="center">
-    <strong><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahashi)</a></strong> |
-    <strong><a href="mailto:matthewarni.bendo@ssu.edu.ph">Email (Matthew Arni Bendo)</a></strong> |
-    <strong><a href="mailto:12matth1arni20@gmail.com">Email (Matthew Arni Bendo)</a></strong>
+    <b><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahashi)</a></b> |
+    <b><a href="mailto:matthewarni.bendo@ssu.edu.ph">Email (Matthew Arni Bendo)</a></b> |
+    <b><a href="mailto:12matth1arni20@gmail.com">Email (Matthew Arni Bendo)</a></b>
 </p>
 
 <p align="center">
