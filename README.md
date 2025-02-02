@@ -13,10 +13,8 @@
 
 <p align="center">
     <strong><a href="https://discord.gg/arnichan">Discord (Nijika)</a></strong> |
-    <strong><a href="https://discord.gg/rukiruki3646">Discord (Ruki-Ruki)</a></strong> |
     <strong><a href="https://x.com/Aru327099275035">Twitter (Aru)</a></strong> |
-    <strong><a href="https://x.com/dwings_arni">Twitter (Ⅾ翼)</a></strong> |
-    <strong><a href="https://x.com/rukiruk21804405">Twitter (Ruki-Ruki)</a></strong>
+    <strong><a href="https://x.com/dwings_arni">Twitter (Ⅾ翼)</a></strong>
 </p>
 
 <h3 align="center">Inquiry</h3>
@@ -24,10 +22,9 @@
 <p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me 😉./p>
 
 <p align="center">
-    <strong><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahaashi)</a></strong> |
+    <strong><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahashi)</a></strong> |
     <strong><a href="mailto:matthewarni.bendo@ssu.edu.ph">Email (Matthew Arni Bendo)</a></strong> |
-    <strong><a href="mailto:12matth1arni20@gmail.com">Email (Matthew Arni Bendo)</a></strong> |
-    <strong><a href="mailto:ichiruki.foreverr@gmail.com">Email (Ruki-Ruki)</a></strong>
+    <strong><a href="mailto:12matth1arni20@gmail.com">Email (Matthew Arni Bendo)</a></strong>
 </p>
 
 <p align="center">
