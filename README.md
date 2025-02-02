@@ -1,6 +1,5 @@
 <p align="center">
-        <img src="360a2a7ec4895937be58840b2a11d130.gif" alt="Banner">
-    </a>
+    <img src="360a2a7ec4895937be58840b2a11d130.gif" alt="Banner">
 </p>
 
 <h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aru</a>! 👋</h1>
@@ -8,9 +7,17 @@
 
 <h3 align="center">Welcome to my GitHub profilee 💬</h3>
 
-<p align="justify">My real name is Matthew Arni Bendo. I’m 20 years old, and I am not married. I still study Computer Engineering, and I have free time every day by 8:00 PM at the latest. I don’t smoke. I’m in bed by 10:00 PM, and I make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
+<p align="right">
+    <img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e">
+</p>
 
-<p align="justify">I’m trying to explain that I’m a person who wishes to live a very quiet life. I take care not to trouble myself with any enemies, such as winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and I know that is what brings me happiness. However, if I were to fight, I wouldn’t lose to anyone.</p>
+<p align="justify">Pen Name: Aru, Ⅾ翼</p>
+<p align="justify">Real Name: Matthew Arni Bendo</p>
+<p align="justify">Loves: Anime, Doujins, Manga, Manhua, Novels, Cute things, FPS, Rhythm, and Open World Games, Logical Puzzles, !brainrot contents</p>
+<p align="justify">Hobbies (Proffessional): Animation (2d and 3d), Illustration, Graphic Design, Artificial Intelligence (learning), Machine Learning (learning), Small Content Creation and Game Development</p>
+<p align="justify">Hobbies (Random): Badminton, Chess, Gomoku, Minesweepeer, Tetoris, Bandori, Project Sekai, Rhythm Hive, Osu</p>
+
+<p align="justify">My real name is Matthew Arni Bendo. I’m 20 years old, and I am not married. I still study Computer Engineering, and I have free time every day by 8:00 PM at the latest. I don’t smoke. I’m in bed by 10:00 PM, and I make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
 
 <p align="center">
     <strong><a href="https://discord.gg/arnichan">Discord (Nijika)</a></strong> |
@@ -24,13 +31,13 @@
 <table align="center">
     <tbody>
         <tr>
-            <th>Mastered: </th>
+            <th>Mastered</th>
             <td>
                 <strong><img src="logos/c++.png" alt="c++" width="50" height="50"></strong>
             </td>
         </tr>
         <tr>
-            <th>Decent: </th>
+            <th>Decent</th>
             <td>
                 <strong><img src="logos/c.png" alt="c" width="50" height="50"></strong>
                 <strong><img src="logos/c%23.png" alt="c#" width="50" height="50"></strong>
@@ -40,7 +47,7 @@
             </td>
         </tr>
         <tr>
-            <th>Learning: </th>
+            <th>Learning</th>
             <td>
                 <strong><img src="logos/css.png" alt="css" width="50" height="50"></strong>
                 <strong><img src="logos/html.png" alt="html" width="50" height="50"></strong>
@@ -52,7 +59,7 @@
 
 <h3 align="center">Inquiry 😉</h3>
 
-<p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me./p>
+<p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me.</p>
 
 <p align="center">
     <strong><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahashi)</a></strong> |
