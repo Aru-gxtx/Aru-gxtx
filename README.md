@@ -3,20 +3,20 @@
   </a>
 </p>
 
-<h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aru-gxtx</a>!</h1>
+<h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aru</a>!</h1>
 
 <h3 align="center">Welcome to my GitHub profilee</h3>
 
-<p align="center">My real name is Matthew Arni Bendo. I’m 20 years old. And I am not married. I still study as a Computer Engineering, and I get have free time every day by 8:00 PM at the latest. I don’t smoke, but I occasionally drink. I’m in bed by 10:00 PM, and make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.
+<p align="center">My real name is Matthew Arni Bendo. I’m 20 years old. And I am not married. I still study as a Computer Engineering, and I get have free time every day by 8:00 PM at the latest. I don’t smoke, but I occasionally drink. I’m in bed by 10:00 PM, and make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
 
-I’m trying to explain that I’m a person who wishes to live a very quiet life. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn’t lose to anyone.</p>
+<p align="center">I’m trying to explain that I’m a person who wishes to live a very quiet life. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn’t lose to anyone.</p>
 
 <p align="center">
-  <strong><a href="https://x.com/Aru327099275035">Twitter</a></strong> |
-  <strong><a href="https://x.com/dwings_arni">Twitter</a></strong> |
-  <strong><a href="https://x.com/rukiruk21804405">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/arnichan">Discord</a></strong> |
-  <strong><a href="https://discord.gg/rukiruki3646">Discord</a></strong>
+  <strong><a href="https://x.com/Aru327099275035">Twitter (Aru)</a></strong> |
+  <strong><a href="https://x.com/dwings_arni">Twitter (Ⅾ翼)</a></strong> |
+  <strong><a href="https://x.com/rukiruk21804405">Twitter (Ruki-Ruki)</a></strong> |
+  <strong><a href="https://discord.gg/arnichan">Discord (Nijika)</a></strong> |
+  <strong><a href="https://discord.gg/rukiruki3646">Discord (Ruki-Ruki)</a></strong>
 </p>
 
 <p align="center">
