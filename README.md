@@ -29,7 +29,7 @@
         </td>
     </tr>
     <tr>
-        <th>Decent: </strong>
+        <th>Decent: </th>
         <td>
             <strong><img src="logos/c.png" alt="c" width="50" height="50"></strong>
             <strong><img src="logos/c%23.png" alt="c#" width="50" height="50"></strong>
