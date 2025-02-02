@@ -24,6 +24,8 @@
 </p>
 
 
+<p align="justify"><br><br></p>
+
 <h3 align="center">Languages 👨‍💻</h3>
 
 <table align="center">
@@ -52,6 +54,8 @@
     </tbody>
 </table>
 
+
+<p align="justify"><br><br></p>
 
 <h3 align="center">Inquiry 😉</h3>
 
