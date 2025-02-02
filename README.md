@@ -21,30 +21,32 @@
 
 <h3 align="center">Languages 👨‍💻</h3>
 
-</table align="center">
-    <tr>
-        <td>Mastered: </td>
-        <td>
-            <strong><img src="logos/c++.png" alt="c++" width="50" height="50"></strong>
-        </td>
-    </tr>
-    <tr>
-        <td>Decent: </td>
-        <td>
-            <strong><img src="logos/c.png" alt="c" width="50" height="50"></strong>
-            <strong><img src="logos/c%23.png" alt="c#" width="50" height="50"></strong>
-            <strong><img src="logos/java.png" alt="java" width="50" height="50"></strong>
-            <strong><img src="logos/python.png" alt="python" width="50" height="50"></strong>
-            <strong><img src="logos/sql.png" alt="sql" width="50" height="50"></strong>
-        </td>
-    </tr>
-    <tr>
-        <td>Learning: </td>
-        <td>
-            <strong><img src="logos/css.png" alt="css" width="50" height="50"></strong>
-            <strong><img src="logos/html.png" alt="html" width="50" height="50"></strong>
-        </td>
-    </tr>
+<table style="margin: auto; border-collapse: collapse;" border="1">
+    <tbody>
+        <tr>
+            <td>Mastered: </td>
+            <td>
+                <strong><img src="logos/c++.png" alt="c++" width="50" height="50"></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>Decent: </td>
+            <td>
+                <strong><img src="logos/c.png" alt="c" width="50" height="50"></strong>
+                <strong><img src="logos/c%23.png" alt="c#" width="50" height="50"></strong>
+                <strong><img src="logos/java.png" alt="java" width="50" height="50"></strong>
+                <strong><img src="logos/python.png" alt="python" width="50" height="50"></strong>
+                <strong><img src="logos/sql.png" alt="sql" width="50" height="50"></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>Learning: </td>
+            <td>
+                <strong><img src="logos/css.png" alt="css" width="50" height="50"></strong>
+                <strong><img src="logos/html.png" alt="html" width="50" height="50"></strong>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 
