@@ -21,7 +21,7 @@
 
 <h3 align="center">Languages 👨‍💻</h3>
 
-<table align="center" border="0">
+<table align="center" style="border-collapse: collapse; border: none;">
     <tbody>
         <tr>
             <th>Mastered: </th>
