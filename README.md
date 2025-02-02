@@ -9,7 +9,7 @@
 
 <p align="justify"><b>Pen Names:</b> Aru, Ⅾ翼</p>
 <p align="justify"><b>Real Name:</b> Matthew Arni Bendo</p>
-<p align="justify"><b>Loves:</b> Anime, Manga, Manhua, Novels, Cute things, FPS, Rhythm, and Open World Games, Logical Puzzles, !brainrot contents</p>
+<p align="justify"><b>Loves:</b> Anime, Manga, Manhua, Novels, Cute things, FPS, Rhythm, and Open World Games, Logical Puzzles, Kpop (bias: ILLIT Wonhee), !brainrot contents</p>
 <p align="justify"><b>Hobbies (Professional):</b> Animation (2d and 3d), Illustration, Graphic Design, Artificial Intelligence (learning), Machine Learning (learning), Small Content Creation and Game Development</p>
 <p align="justify"><b>Hobbies (Random):</b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Bandori, Project Sekai, Rhythm Hive, Osu</p>
 
