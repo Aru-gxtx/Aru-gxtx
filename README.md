@@ -5,6 +5,7 @@
 
 <h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aru</a>! 👋</h1>
 
+
 <h3 align="center">Welcome to my GitHub profilee 💬</h3>
 
 <p align="justify">My real name is Matthew Arni Bendo. I’m 20 years old, and I am not married. I still study Computer Engineering, and I have free time every day by 8:00 PM at the latest. I don’t smoke. I’m in bed by 10:00 PM, and I make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
@@ -17,9 +18,17 @@
     <strong><a href="https://x.com/dwings_arni">Twitter (Ⅾ翼)</a></strong>
 </p>
 
-<h3 align="center">Inquiry</h3>
 
-<p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me 😉./p>
+<h3 align="center">Languages 👨‍💻</h3>
+
+<p align="justify">
+    <img src="c++.png" alt="c++" width="50" height="50">
+</p>
+
+
+<h3 align="center">Inquiry 😉</h3>
+
+<p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me./p>
 
 <p align="center">
     <strong><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahashi)</a></strong> |
@@ -30,6 +39,7 @@
 <p align="center">
     <a href="https://github.com/Aru-gxtx"><img src="https://github-readme-stats.vercel.app/api?username=Aru-gxtx&hide_border=true&show_icons=true&theme=radical" alt="Aru-gxtx's github stats"></a>
 </p>
+
 
 <!--
 ## Hi there 👋
