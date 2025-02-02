@@ -67,10 +67,12 @@
     <tbody>
         <tr>
             <th><b>Mastered</b></th>
-            <img src="logos/arduino.png" alt="arduino" width="50" height="50">
-            <img src="logos/canva.png" alt="canva" width="50" height="50">
-            <img src="logos/sheets.png" alt="sheets" width="50" height="50">
-            <img src="logos/vscode.png" alt="vscode" width="50" height="50">
+            <th>
+                <img src="logos/arduino.png" alt="arduino" width="50" height="50">
+                <img src="logos/canva.png" alt="canva" width="50" height="50">
+                <img src="logos/sheets.png" alt="sheets" width="50" height="50">
+                <img src="logos/vscode.png" alt="vscode" width="50" height="50">
+            </th>
         </tr>
         <tr>
             <th><b>Decent</b></th>
