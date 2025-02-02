@@ -22,7 +22,7 @@
 <h3 align="center">Languages 👨‍💻</h3>
 
 <p align="justify">
-    <img src="logos/c++.png" alt="c++" width="50" height="50">
+    <strong>< Mastered: <img src="logos/c++.png" alt="c++" width="50" height="50"></a></strong>
 </p>
 
 
