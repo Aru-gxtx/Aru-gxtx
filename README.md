@@ -23,13 +23,13 @@
 
 </table align="center">
     <tr>
-        <th>Mastered: </th>
+        <td>Mastered: </td>
         <td>
             <strong><img src="logos/c++.png" alt="c++" width="50" height="50"></strong>
         </td>
     </tr>
     <tr>
-        <th>Decent: </th>
+        <td>Decent: </td>
         <td>
             <strong><img src="logos/c.png" alt="c" width="50" height="50"></strong>
             <strong><img src="logos/c%23.png" alt="c#" width="50" height="50"></strong>
@@ -39,7 +39,7 @@
         </td>
     </tr>
     <tr>
-        <th>Learning: </th>
+        <td>Learning: </td>
         <td>
             <strong><img src="logos/css.png" alt="css" width="50" height="50"></strong>
             <strong><img src="logos/html.png" alt="html" width="50" height="50"></strong>
