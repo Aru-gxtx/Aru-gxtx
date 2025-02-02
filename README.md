@@ -21,16 +21,13 @@
 
 <h3 align="center">Languages 👨‍💻</h3>
 
-<p align="justify">
+</table align="center">
     <tr>
         <th>Mastered: </th>
         <td>
             <strong><img src="logos/c++.png" alt="c++" width="50" height="50"></strong>
         </td>
     </tr>
-</p>
-
-<p align="justify">
     <tr>
         <th>Decent: </strong>
         <td>
@@ -41,9 +38,6 @@
             <strong><img src="logos/sql.png" alt="sql" width="50" height="50"></strong>
         </td>
     </tr>
-</p>
-
-<p align="justify">
     <tr>
         <th>Learning: </th>
         <td>
@@ -51,7 +45,7 @@
             <strong><img src="logos/html.png" alt="html" width="50" height="50"></strong>
         </td>
     </tr>
-</p>
+</table>
 
 
 <h3 align="center">Inquiry 😉</h3>
