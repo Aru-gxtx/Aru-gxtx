@@ -24,13 +24,13 @@
 <table style="margin: auto; border-collapse: collapse;" border="0">
     <tbody>
         <tr>
-            <td>Mastered: </td>
+            <th>Mastered: </th>
             <td>
                 <strong><img src="logos/c++.png" alt="c++" width="50" height="50"></strong>
             </td>
         </tr>
         <tr>
-            <td>Decent: </td>
+            <th>Decent: </th>
             <td>
                 <strong><img src="logos/c.png" alt="c" width="50" height="50"></strong>
                 <strong><img src="logos/c%23.png" alt="c#" width="50" height="50"></strong>
@@ -40,7 +40,7 @@
             </td>
         </tr>
         <tr>
-            <td>Learning: </td>
+            <th>Learning: </th>
             <td>
                 <strong><img src="logos/css.png" alt="css" width="50" height="50"></strong>
                 <strong><img src="logos/html.png" alt="html" width="50" height="50"></strong>
