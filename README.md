@@ -19,7 +19,7 @@
     <strong><a href="https://x.com/rukiruk21804405">Twitter (Ruki-Ruki)</a></strong>
 </p>
 
-<h2 align="center">Inquiry</h2>
+<h3 align="center">Inquiry</h3>
 
 <p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me 😉./p>
 
