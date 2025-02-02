@@ -67,6 +67,8 @@
     <b><a href="mailto:12matth1arni20@gmail.com">Email (Matthew Arni Bendo)</a></b>
 </p>
 
+<p align="justify"><br></p>
+
 <p align="center">
     <a href="https://github.com/Aru-gxtx"><img src="https://github-readme-stats.vercel.app/api?username=Aru-gxtx&hide_border=true&show_icons=true" alt="Aru-gxtx's github stats"></a>
 </p>
