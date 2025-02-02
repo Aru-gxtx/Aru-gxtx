@@ -11,7 +11,7 @@
 <p align="justify"><b>Real Name:</b> Matthew Arni Bendo</p>
 <p align="justify"><b>Loves:</b> Anime, Manga, Manhua, Novels, Cute things, FPS, Rhythm, and Open World Games, Logical Puzzles, Kpop (bias: ILLIT Wonhee), !brainrot contents</p>
 <p align="justify"><b>Hobbies (Professional):</b> Animation (2d and 3d), Illustration, Graphic Design, Artificial Intelligence (learning), Machine Learning (learning), Small Content Creation and Game Development</p>
-<p align="justify"><b>Hobbies (Random):</b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Bandori, Project Sekai, Rhythm Hive, Osu</p>
+<p align="justify"><b>Hobbies (Random):</b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Bandori, Project Sekai, Rhythm Heaven and Hive, Osu</p>
 
 <p align="justify"><br></p>
 
@@ -24,7 +24,9 @@
 </p>
 
 
+
 <p align="justify"><br><br></p>
+
 
 <h3 align="center">Languages 👨‍💻</h3>
 
@@ -55,7 +57,39 @@
 </table>
 
 
+
 <p align="justify"><br><br></p>
+
+
+<h3 align="center">Tools 🛠</h3>
+
+<table align="center">
+    <tbody>
+        <tr>
+            <th><b>Mastered</b></th>
+            <td><img src="logos/arduino.png" alt="arduino" width="50" height="50"></td>
+            <td><img src="logos/canva.png" alt="canva" width="50" height="50"></td>
+            <td><img src="logos/sheets.png" alt="sheets" width="50" height="50"></td>
+            <td><img src="logos/vscode.png" alt="vscode" width="50" height="50"></td>
+        </tr>
+        <tr>
+            <th><b>Decent</b></th>
+            <td></td>
+        </tr>
+        <tr>
+            <th><b>Learning</b></th>
+            <td>
+                <img src="logos/blender.png" alt="blender" width="50" height="50">
+                <img src="logos/unity.png" alt="unity" width="50" height="50">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+<p align="justify"><br><br></p>
+
 
 <h3 align="center">Inquiry 😉</h3>
 
