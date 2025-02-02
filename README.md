@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Aru-gxtx"><img src="https://github-readme-stats.vercel.app/api?username=Aru-gxtx&hide_border=true&show_icons=true&theme=radical" alt="Aru-gxtx's github stats"></a>
+    <a href="https://github.com/Aru-gxtx"><img src="https://github-readme-stats.vercel.app/api?username=Aru-gxtx&hide_border=true&show_icons=true" alt="Aru-gxtx's github stats"></a>
 </p>
 
 
