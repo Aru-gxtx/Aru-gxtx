@@ -5,7 +5,12 @@
 
 <h3 align="center">Welcome to my GitHub profilee 💬</h3>
 
-<style>.gif-container {float: right; margin-left: 20px;}</style>
+<style>
+    .gif-container {
+        float: right; 
+        margin-left: 20px;
+    }
+</style>
 <div class="gif-container"><img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></div>
 
 <p align="justify"><b>Pen Names:</b> Aru, Ⅾ翼</p>
