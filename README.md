@@ -7,9 +7,7 @@
 
 <h3 align="center">Welcome to my GitHub profilee 💬</h3>
 
-<p align="right">
-    <img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e">
-</p>
+<img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e" align="right">
 
 <p align="justify">Pen Name: Aru, Ⅾ翼</p>
 <p align="justify">Real Name: Matthew Arni Bendo</p>
