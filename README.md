@@ -6,13 +6,15 @@
 <h3 align="center">Welcome to my GitHub profilee 💬</h3>
 
 <table align="center">
-    <tr><td>
-        <p align="justify"><b>Pen Names:</b> Ai Takahashi, Aru, Ⅾ翼, Nijika</p>
-        <p align="justify"><b>Loves:</b> Anime, Manga, Manhua, Novels, Cute things, Her, FPS, Rhythm, and Open World Games, Logical Puzzles, Kpop <i>(bias: ILLIT Wonhee),</i> !brainrot contents</p>
-        <p align="justify"><b>Hobbies <i>(Professional):</i></b> Animation <i>(2d and 3d),</i> Illustration, Graphic Design, Artificial Intelligence <i>(learning),</i> Machine Learning <i>(learning),</i> Small Content Creation and Game Development</p>
-        <p align="justify"><b>Hobbies <i>(Random):</i></b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Bandori, Project Sekai, Rhythm Heaven and Hive, Osu</p>
-    </td>
-    <td><img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td></tr>
+    <tr>
+        <td>
+            <p align="justify"><b>Pen Names:</b> Ai Takahashi, Aru, Ⅾ翼, Nijika</p>
+            <p align="justify"><b>Loves:</b> Cute things, Games, Literatures, Music, Puzzles</p>
+            <p align="justify"><b>Hobbies <i>(Professional):</i></b> Art, Learning, Trying Content Creation & Game Dev</p>
+            <p align="justify"><b>Hobbies <i>(Random):</i></b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Rhythm Games</p>
+        </td>
+        <td><img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td>
+    </tr>
 </table>
 
 <p align="justify">My real name is Matthew Arni Bendo. I’m 20 years old, and I am not married. I still study Computer Engineering, and I have free time every day by 8:00 PM at the latest. I don’t smoke. I’m in bed by 10:00 PM, and I make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
