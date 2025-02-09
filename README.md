@@ -11,8 +11,8 @@
         <p align="justify"><b>Loves:</b> Anime, Manga, Manhua, Novels, Cute things, Her, FPS, Rhythm, and Open World Games, Logical Puzzles, Kpop (bias: ILLIT Wonhee), !brainrot contents</p>
         <p align="justify"><b>Hobbies (Professional):</b> Animation (2d and 3d), Illustration, Graphic Design, Artificial Intelligence (learning), Machine Learning (learning), Small Content Creation and Game Development</p>
         <p align="justify"><b>Hobbies (Random):</b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Bandori, Project Sekai, Rhythm Heaven and Hive, Osu</p>
-    </td></tr>
-    <tr><td><img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td></tr>
+    </td>
+    <td><img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td></tr>
 </table>
 
 <p align="justify"><br></p>
