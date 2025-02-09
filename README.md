@@ -44,6 +44,7 @@
                 <img src="logos/c.png" alt="c" width="50" height="50">
                 <img src="logos/c%23.png" alt="c#" width="50" height="50">
                 <img src="logos/java.png" alt="java" width="50" height="50">
+                <img src="logos/markdown.png" alt="sql" width="50" height="50">
                 <img src="logos/python.png" alt="python" width="50" height="50">
                 <img src="logos/sql.png" alt="sql" width="50" height="50">
             </td>
