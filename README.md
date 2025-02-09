@@ -11,7 +11,7 @@
             <p align="justify"><b>Pen Names:</b> Ai Takahashi, Aru, Ⅾ翼, Nijika</p>
             <p align="justify"><b>Loves:</b> Cute things, Games, Literatures, Music, Puzzles</p>
             <p align="justify"><b>Hobbies <i>(Professional):</i></b> Art, Learning, Trying Content Creation & Game Dev</p>
-            <p align="justify"><b>Hobbies <i>(Random):</i></b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Rhythm Games</p>
+            <p align="justify"><b>Hobbies <i>(Random):</i></b> Badminton, Chess, Gomoku, Minesweeper, Rhythm Games, Tetoris</p>
         </td>
         <td><img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td>
     </tr>
