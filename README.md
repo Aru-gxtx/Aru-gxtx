@@ -9,8 +9,8 @@
     <tr><td>
         <p align="justify"><b>Pen Names:</b> Ai Takahashi, Aru, Ⅾ翼, Nijika</p>
         <p align="justify"><b>Loves:</b> Anime, Manga, Manhua, Novels, Cute things, Her, FPS, Rhythm, and Open World Games, Logical Puzzles, Kpop (bias: ILLIT Wonhee), !brainrot contents</p>
-        <p align="justify"><b>Hobbies (Professional):</b> Animation (2d and 3d), Illustration, Graphic Design, Artificial Intelligence (learning), Machine Learning (learning), Small Content Creation and Game Development</p>
-        <p align="justify"><b>Hobbies (Random):</b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Bandori, Project Sekai, Rhythm Heaven and Hive, Osu</p>
+        <p align="justify"><b>Hobbies <i>(Professional):</i></b> Animation (2d and 3d), Illustration, Graphic Design, Artificial Intelligence (learning), Machine Learning (learning), Small Content Creation and Game Development</p>
+        <p align="justify"><b>Hobbies <i>(Random):</i></b> Badminton, Chess, Gomoku, Minesweeper, Tetoris, Bandori, Project Sekai, Rhythm Heaven and Hive, Osu</p>
     </td>
     <td><img src="emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td></tr>
 </table>
@@ -18,9 +18,9 @@
 <p align="justify">My real name is Matthew Arni Bendo. I’m 20 years old, and I am not married. I still study Computer Engineering, and I have free time every day by 8:00 PM at the latest. I don’t smoke. I’m in bed by 10:00 PM, and I make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
 
 <p align="center">
-    <b><a href="https://discord.gg/arnichan">Discord (Nijika)</a></b> |
-    <b><a href="https://x.com/Aru327099275035">Twitter (Aru)</a></b> |
-    <b><a href="https://x.com/dwings_arni">Twitter (Ⅾ翼)</a></b>
+    <strong><a href="https://discord.gg/arnichan">Discord (Nijika)</a></strong> |
+    <strong><a href="https://x.com/Aru327099275035">Twitter (Aru)</a></strong> |
+    <strong><a href="https://x.com/dwings_arni">Twitter (Ⅾ翼)</a></strong>
 </p>
 
 
@@ -98,9 +98,9 @@
 <p align="center">If you have any questions, or if you just want to hang out, or play a game together, feel free to contact me.</p>
 
 <p align="center">
-    <b><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahashi)</a></b> |
-    <b><a href="mailto:matthewarni.bendo@ssu.edu.ph">Email (Matthew Arni Bendo)</a></b> |
-    <b><a href="mailto:12matth1arni20@gmail.com">Email (Matthew Arni Bendo)</a></b>
+    <strong><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahashi)</a></strong> |
+    <strong><a href="mailto:matthewarni.bendo@ssu.edu.ph">Email (Matthew Arni Bendo)</a></strong> |
+    <strong><a href="mailto:12matth1arni20@gmail.com">Email (Matthew Arni Bendo)</a></strong>
 </p>
 
 <p align="justify"><br></p>
