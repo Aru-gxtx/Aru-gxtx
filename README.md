@@ -13,7 +13,7 @@
             <p align="justify"><b>Hobbies <i>(Professional):</i></b> Art, Learning, Trying Content Creation & Game Dev</p>
             <p align="justify"><b>Hobbies <i>(Random):</i></b> Badminton, Chess, Gomoku, Minesweeper, Rhythm Games, Tetoris</p>
         </td>
-        <td><img src="qzfv8irtahee1.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td>
+        <td><img src="qzfv8irtahee1.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e.gif"></td>
     </tr>
 </table>
 
