@@ -1,4 +1,4 @@
-<p align="center"><img src="asuca-watamote.gif" alt="Banner"></p>
+<p align="center"><img src="tomoko-kurkoki-tomoko.gif" alt="Banner"></p>
 
 <h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aru</a>! 👋</h1>
 
@@ -13,7 +13,7 @@
             <p align="justify"><b>Hobbies <i>(Professional):</i></b> Art, Learning, Trying Content Creation & Game Dev</p>
             <p align="justify"><b>Hobbies <i>(Random):</i></b> Badminton, Chess, Gomoku, Minesweeper, Rhythm Games, Tetoris</p>
         </td>
-        <td><img src="qzfv8irtahee1.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e.gif"></td>
+        <td><img src="qzfv8irtahee1.gif" alt="pjsk-emu-otori.gif"></td>
     </tr>
 </table>
 
