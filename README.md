@@ -1,4 +1,4 @@
-<p align="center"><img src="tomoko-kurkoki-tomoko.gif" alt="Banner"></p>
+<p align="center"><img src="tomoko-kuroki-tomoko.gif" alt="Banner"></p>
 
 <h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aru</a>! 👋</h1>
 
