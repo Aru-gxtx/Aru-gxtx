@@ -1,6 +1,6 @@
 <p align="center"><img src="tomoko-kuroki-tomoko.gif" alt="Banner"></p>
 
-<h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aru</a>! 👋</h1>
+<h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aruu☆</a>! 👋</h1>
 
 
 <h3 align="center">Welcome to my GitHub profilee 💬</h3>
