@@ -17,7 +17,7 @@
     </tr>
 </table>
 
-<p align="justify">My real name is Matthew Arni Bendo. I’m 20 years old, and I am not married. I still study Computer Engineering, and I have free time every day by 8:00 PM at the latest. I don’t smoke. I’m in bed by 10:00 PM, and I make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
+<p align="justify">My real name is Matthew Arni Bendo. I’m 21 years old, and I am not married. I still study Computer Engineering, and I have free time every day by 8:00 PM at the latest. I don’t smoke. I’m in bed by 10:00 PM, and I make sure I get eight hours of sleep, no matter what. I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning.</p>
 
 <p align="center">
     <strong><a href="https://discord.gg/arnichan">Discord (Nijika)</a></strong> |
@@ -103,6 +103,7 @@
 <p align="center">
     <strong><a href="mailto:takahashiai17@gmail.com">Email (Ai Takahashi)</a></strong> |
     <strong><a href="mailto:matthewarni.bendo@ssu.edu.ph">Email (Matthew Arni Bendo)</a></strong> |
+    <strong><a href="mailto:matthewarni.bendo.pro@gmail.com">Email (Matthew Arni Bendo)</a></strong> |
     <strong><a href="mailto:12matth1arni20@gmail.com">Email (Matthew Arni Bendo)</a></strong>
 </p>
 
