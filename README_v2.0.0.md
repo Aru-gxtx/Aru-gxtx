@@ -1,4 +1,4 @@
-![My name is...](/README_assets/Watashi_no_nawa_Header.gif)
+![My name is...](/README_assets/el_psy_congroo_header.gif)
 ##  Hello 🖐🏽, this is Aruu☆'s GitHub page.
 
 My name is real Matthew Arni Bendo, and I am 21 years old. I am single. I am a student at [Samar State University](ssu.edu.ph), and I return home by 8 PM at the latest every day. I don't smoke, but I occasionally drink alcohol. I go to bed at 10 PM and make sure to get at least eight hours of sleep no matter what. Drinking a glass of warm milk and doing about 20 minutes of stretching before bed usually helps me sleep soundly until morning. I wake up feeling refreshed and stress-free, like a baby. My last health checkup showed no particular problems. <br><br>
