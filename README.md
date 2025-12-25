@@ -6,7 +6,7 @@ What I want to convey is that I am someone who wants to live a very peaceful lif
 
 ## For more detailed information about me, please see this Interests section.
 * Professional: Game Development and Design, Art, Programming, Embedded Systems and Robotics, PC Building and Modding
-* Personal: Her, East Asian Media and Culture (Anime, Donghua, Manga,Manhwa, Manhua, Light Novel, Web Novel, Visual Novel, K-dramas, and K-pop), Knowledgeable / Continuous Learning
+* Personal: Her, East Asian Media and Culture (Anime, Donghua, Manga, Manhwa, Manhua, Light Novel, Web Novel, Visual Novel, K-dramas, and K-pop), Knowledgeable / Continuous Learning
 
 <h2 align="center">
   <img src="/README_assets/Programming_logos/cpp.png" alt="C++"> | <img src="/README_assets/Programming_logos/c.png" alt="C"> | <img src="/README_assets/Programming_logos/csharp.png" alt="C#"> | <img src="/README_assets/Programming_logos/verilog.png" alt="Verilog"> | <img src="/README_assets/Programming_logos/java.png" alt="Java"> | <img src="/README_assets/Programming_logos/py.png" alt="Python"> | <img src="/README_assets/Programming_logos/dart.png" alt="Dart">
