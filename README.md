@@ -5,8 +5,8 @@ My name is real Matthew Arni Bendo, and I am 21 years old. I am single. I return
 What I want to convey is that I am someone who wants to live a very peaceful life. I try to avoid getting involved in competitive situations or conflicts that would keep me awake at night. That's how I approach society, and I believe it brings me happiness. However, if I were to be forced into a fight, I wouldn't intend to lose to anyone.
 
 ## For more detailed information about me, please see this Interests section.
-* Professional: Game Development and Design, Art, Programming, Embedded Systems and Robotics, PC Building and Modding
-* Personal: Her, East Asian Media and Culture (Anime, Donghua, Manga, Manhwa, Manhua, Light Novel, Web Novel, Visual Novel, K-dramas, and K-pop), Knowledgeable / Continuous Learning
+* Professional: Game Development and Design, Art, VFX, Programming, Embedded Systems and Robotics, PC Building and Modding
+* Personal: Her, East Asian Media and Culture (AniMan(ga/hwa/hua), L/W/V Novels, K/J/C-dramas, and K/J/P/C-pops), Knowledgeable / Continuous Learning
 
 <h2 align="center">
   <img src="/README_assets/Programming_logos/cpp.png" alt="C++"> | <img src="/README_assets/Programming_logos/c.png" alt="C"> | <img src="/README_assets/Programming_logos/csharp.png" alt="C#"> | <img src="/README_assets/Programming_logos/verilog.png" alt="Verilog"> | <img src="/README_assets/Programming_logos/java.png" alt="Java"> | <img src="/README_assets/Programming_logos/py.png" alt="Python"> | <img src="/README_assets/Programming_logos/dart.png" alt="Dart">
