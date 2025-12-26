@@ -12,6 +12,6 @@ What I want to convey is that I am someone who wants to live a very peaceful lif
   <img src="/README_assets/Programming_logos/cpp.png" alt="C++"> | <img src="/README_assets/Programming_logos/c.png" alt="C"> | <img src="/README_assets/Programming_logos/csharp.png" alt="C#"> | <img src="/README_assets/Programming_logos/verilog.png" alt="Verilog"> | <img src="/README_assets/Programming_logos/java.png" alt="Java"> | <img src="/README_assets/Programming_logos/py.png" alt="Python"> | <img src="/README_assets/Programming_logos/dart.png" alt="Dart">
 </h2>
 
-## Please feel free to contact me! I hope you have a wonderful time!
+## Please feel free to contact me. I hope you have a wonderful time.
 * Contacts: +63 927-918-6866 | +63 976-287-2485
 * Emails: matthewarni.bendo@ssu.edu.ph | matthewarni.bendo.pro@gmail.com | 12matth1arni20@gmail.com 
