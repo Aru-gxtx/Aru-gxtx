@@ -1,4 +1,4 @@
-<p align="center"><img src="tomoko-kuroki-tomoko.gif" alt="Banner"></p>
+<p align="center"><img src="/README_assets/tomoko-kuroki-tomoko.gif" alt="Banner"></p>
 
 <h1 align="center">Hello, I am <a href="https://github.com/Aru-gxtx">Aruu☆</a>! 👋</h1>
 
@@ -13,7 +13,7 @@
             <p align="justify"><b>Hobbies <i>(Professional):</i></b> Art, Learning, Trying Content Creation & Game Dev</p>
             <p align="justify"><b>Hobbies <i>(Random):</i></b> Badminton, Chess, Gomoku, Minesweeper, Rhythm Games, Tetoris</p>
         </td>
-        <td><img src="pjsk-emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td>
+        <td><img src="/README_assets/pjsk-emu-otori.gif" alt="yokoso kira kira doki doki mochi mochi puyo puyo waku waku washoi no wonder stage e"></td>
     </tr>
 </table>
 
@@ -36,24 +36,24 @@
     <tbody>
         <tr>
             <th><b>Mastered</b></th>
-            <td><img src="logos/c++.png" alt="c++" width="50" height="50"></td>
+            <td><img src="/README_assets/logos/c++.png" alt="c++" width="50" height="50"></td>
         </tr>
         <tr>
             <th><b>Decent</b></th>
             <td>
-                <img src="logos/c.png" alt="c" width="50" height="50">
-                <img src="logos/c%23.png" alt="c#" width="50" height="50">
-                <img src="logos/java.png" alt="java" width="50" height="50">
-                <img src="logos/markdown.png" alt="sql" width="50" height="50">
-                <img src="logos/python.png" alt="python" width="50" height="50">
-                <img src="logos/sql.png" alt="sql" width="50" height="50">
+                <img src="/README_assets/logos/c.png" alt="c" width="50" height="50">
+                <img src="/README_assets/logos/c%23.png" alt="c#" width="50" height="50">
+                <img src="/README_assets/logos/java.png" alt="java" width="50" height="50">
+                <img src="/README_assets/logos/markdown.png" alt="sql" width="50" height="50">
+                <img src="/README_assets/logos/python.png" alt="python" width="50" height="50">
+                <img src="/README_assets/logos/sql.png" alt="sql" width="50" height="50">
             </td>
         </tr>
         <tr>
             <th><b>Learning</b></th>
             <td>
-                <img src="logos/css.png" alt="css" width="50" height="50">
-                <img src="logos/html.png" alt="html" width="50" height="50">
+                <img src="/README_assets/logos/css.png" alt="css" width="50" height="50">
+                <img src="/README_assets/logos/html.png" alt="html" width="50" height="50">
             </td>
         </tr>
     </tbody>
@@ -71,10 +71,10 @@
         <tr>
             <th><b>Mastered</b></th>
             <th>
-                <img src="logos/arduino.png" alt="arduino" width="50" height="50">
-                <img src="logos/canva.png" alt="canva" width="50" height="50">
-                <img src="logos/sheets.png" alt="sheets" width="50" height="50">
-                <img src="logos/vscode.png" alt="vscode" width="50" height="50">
+                <img src="/README_assets/logos/arduino.png" alt="arduino" width="50" height="50">
+                <img src="/README_assets/logos/canva.png" alt="canva" width="50" height="50">
+                <img src="/README_assets/logos/sheets.png" alt="sheets" width="50" height="50">
+                <img src="/README_assets/logos/vscode.png" alt="vscode" width="50" height="50">
             </th>
         </tr>
         <tr>
@@ -84,8 +84,8 @@
         <tr>
             <th><b>Learning</b></th>
             <td>
-                <img src="logos/blender.png" alt="blender" width="50" height="50">
-                <img src="logos/unity.png" alt="unity" width="50" height="50">
+                <img src="/README_assets/logos/blender.png" alt="blender" width="50" height="50">
+                <img src="/README_assets/logos/unity.png" alt="unity" width="50" height="50">
             </td>
         </tr>
     </tbody>
