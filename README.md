@@ -6,7 +6,7 @@ What I want to convey is that I am someone who wants to live a very peaceful lif
 
 ## Please see this Interests section.
 * Professional: Game Development and Design, Art, VFX, Programming, Embedded Systems and Robotics, PC Building and Modding
-* Personal: Her, East Asian Media and Culture (AniMan(ga/hwa/hua), L/W/V Novels, K/J-dramas, and K/J/P/C-pops), Knowledgeable / Continuous Learning
+* Personal: Her, East Asian Media and Culture (AniMan(ga/hwa), L/W/V Novels, K/J-dramas, and K/J/P/C-pops), Knowledgeable / Continuous Learning
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> | 
