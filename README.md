@@ -8,7 +8,6 @@ What I want to convey is that I am someone who wants to live a very peaceful lif
 * Professional: Game Development and Design, Art, VFX, Programming, Embedded Systems and Robotics, PC Building and Modding
 * Personal: Her, East Asian Media and Culture (AniMan(ga/hwa), L/W/V Novels, K/J-dramas, and K/J/P/C-pops), Knowledgeable / Continuous Learning
 
-<<<<<<< HEAD
 <h2 align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> | 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"> | 
@@ -21,39 +20,3 @@ What I want to convey is that I am someone who wants to live a very peaceful lif
 ## Please feel free to contact me. I hope you have a wonderful time.
 * Emails: matthewarni.bendo@ssu.edu.ph | matthewarni.bendo.pro@gmail.com | 12matth1arni20@gmail.com 
 * WhatsApp: +63 927-918-6866
-=======
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=Aru-gxtx&style=flat-square&color=green)
-
-  ---
-
-  <a href="mailto:matthewarni.bendo@ssu.edu.ph">
-    <img src="https://img.shields.io/badge/School-matthewarni.bendo%40ssu.edu.ph-d14836?style=flat-square&logo=gmail&logoColor=white" alt="School Email Address" />
-  </a>
-  <a href="mailto:matthewarni.bendo.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Professional-matthewarni.bendo.pro%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Professional Email Address" />
-  </a>
-  <a href="mailto:12matth1arni20@gmail.com">
-    <img src="https://img.shields.io/badge/Personal-12matth1arni20%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email Address" />
-  </a>
-  
-  <br />
-
-  <a href="https://wa.me/639279186866">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B63%20927--918--6866-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-
-  <br />
-  <br />
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py,dart,blender&theme=dark" />
-  </a>
-</div>
-
-  <br />
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Aru-gxtx&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
->>>>>>> 2d3abe1ae48367f95a284c4acb35316d59c338a1
