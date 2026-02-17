@@ -4,18 +4,18 @@
 
   ### Aspiring game developer and technical artist!
 
-  ![Profile view counter](https://komarev.com/ghpvc/?username=Aru-gxtx&style=flat-square&color=green)
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Aru-gxtx&style=flat-square&color=green)
 
   ---
 
   <a href="mailto:matthewarni.bendo@ssu.edu.ph">
-    <img src="https://img.shields.io/badge/School-matthewarni.bendo%40ssu.edu.ph-d14836?style=flat-square&logo=gmail&logoColor=white" alt="School Email" />
+    <img src="https://img.shields.io/badge/School-matthewarni.bendo%40ssu.edu.ph-d14836?style=flat-square&logo=gmail&logoColor=white" alt="School Email Address" />
   </a>
   <a href="mailto:matthewarni.bendo.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Professional-matthewarni.bendo.pro%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Professional Email" />
+    <img src="https://img.shields.io/badge/Professional-matthewarni.bendo.pro%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Professional Email Address" />
   </a>
   <a href="mailto:12matth1arni20@gmail.com">
-    <img src="https://img.shields.io/badge/Personal-12matth1arni20%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" />
+    <img src="https://img.shields.io/badge/Personal-12matth1arni20%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email Address" />
   </a>
   
   <br />
