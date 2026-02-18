@@ -2,8 +2,6 @@
 
   # Hello 👋, this is $${\color{green}Aruu☆}$$.
 
-  ### Aspiring game developer and technical artist!
-
   ![Profile view counter](https://komarev.com/ghpvc/?username=Aru-gxtx&style=flat-square&color=green)
 
   ---
