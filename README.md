@@ -19,4 +19,4 @@ What I want to convey is that I am someone who wants to live a very peaceful lif
 
 ## Please feel free to contact me. I hope you have a wonderful time.
 * Emails: matthewarni.bendo@ssu.edu.ph | matthewarni.bendo.pro@gmail.com | 12matth1arni20@gmail.com 
-* WhatsApp: +63 927-918-6866
+* WhatsApp: [+63 927-918-6866](https://wa.me/09279186866)
